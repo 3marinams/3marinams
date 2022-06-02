@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @3marinams
+- 👀 I’m interested in voice assistants. Also, I'm a software teacher for high school students. My work published here is, basically, what we do at class.
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on voice assistants
+- 📫 Let's get in touch: @ms_marina__
