@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3marinams
-- 👀 I’m interested in voice assistants, UX/UI, VUX/VUI. Also, I'm a software teacher for high school students. My work published here is, basically, what we do in class.
+- 👀 I’m interested in voice assistants, UX/UI, VUX/VUI. Also, I'm a software teacher for vocational training students. My work published here is, basically, what we do in class.
 - 🌱 I’m always learning new things. If you come up with a new idea, tell me. I can help you developing it!
 - 💞️ I’m looking to collaborate on voice assistants projects!
 - 📫 Let's get in touch: @ms_marina__
